@@ -15,4 +15,5 @@ def calc():
         print("The Division Of GIven Two numbers :",a/b)
     else:
         print("choice is in correct")
+
 calc()
